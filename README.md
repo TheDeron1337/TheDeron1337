@@ -1,6 +1,3 @@
-<!--
-**TheDeron1337/TheDeron1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Adrian.</h1>
 <h3 align="center">A beginner backend developer</h3>
 
